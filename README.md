@@ -17,7 +17,7 @@ Build my own minimal portfolio.
 [![Vite](https://img.shields.io/badge/≡-Vite-646CFF?&style=flat-square&logo=vite&labelColor=282828)](https://vitejs.dev/)
 [![GitHub](https://img.shields.io/badge/≡-GitHub-181717?logo=GitHub&style=flat-square&labelColor=282828)](https://github.com/)
 
-![Homepage](public/assets/react-minimal-portfolio.png)
+
 > Porfolio homepage.
 
 ---
